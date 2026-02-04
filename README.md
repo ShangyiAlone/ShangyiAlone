@@ -13,7 +13,7 @@
 
 ## 💼 Work Experience
 **FinTech Technology Company** — Technical Lead  
-2020 - 2024  
+2025.6 - now  
 - Led the development of a collateral-backed stablecoin financial system prototype, including architecture design, asset module, authentication system, referral system, and compliance processes  
 - Responsible for system security, permission control, and multi-instance deployment  
 - Used **Docker + Nginx + AWS (EC2/S3/RDS)** for deployment, integrated **Elasticsearch/Fluentd/Kibana** for logging and monitoring  
