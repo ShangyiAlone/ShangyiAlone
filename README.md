@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I’m Shang Yi 👋
 
 **Software Engineer | Backend Developer | Blockchain Enthusiast**
