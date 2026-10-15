@@ -1,50 +1,36 @@
-# Hi, I’m Shang Yi 👋
+# Hi, I'm Shang Yi
 
-**Software Engineer | Backend Developer | Blockchain Enthusiast**
+**Backend & AI Platform Developer | Product Design and Payments**
 
----
+I build backend services and API platforms, combining engineering delivery with product definition and workflow design. B.E. in Software Engineering, Hefei University of Technology (2020-2024).
 
-## 📚 About Me
-- Bachelor’s degree in **Software Engineering** from **Hefei University of Technology**  
-- **2+ years of backend development** and **blockchain** development experience  
-- Passionate about building high-performance, scalable systems and exploring the intersection of blockchain and fintech
+## Experience
 
----
+**Fintech Platform - Technical Lead | May 2025 - Present**
+- Contributed to stablecoin platform planning and payment, asset and accounting workflows.
+- Built Java/Spring Boot, MySQL and JWT/Spring Security backend capabilities.
+- Coordinate Codex, Claude and VS Code AI across workspaces: decompose tasks, align context and integrate parallel outputs.
 
-## 💼 Work Experience
-**FinTech Technology Company** — Technical Lead  
-2025.6 - now  
-- Led the development of a collateral-backed stablecoin financial system prototype, including architecture design, asset module, authentication system, referral system, and compliance processes  
-- Responsible for system security, permission control, and multi-instance deployment  
-- Used **Docker + Nginx + AWS (EC2/S3/RDS)** for deployment, integrated **Elasticsearch/Fluentd/Kibana** for logging and monitoring  
+**Ctrip Business Travel - Backend Engineer | June 2024 - March 2025**
+- Integrated overseas employee card workflows, updating 10,000+ employee records.
+- Improved backlog queries and data synchronization.
+- Delivered BYD MDM integrations with OAuth 2.0, full/incremental sync and retries.
 
-**Ctrip Information Services (Shanghai) Co., Ltd.** — Backend Engineer  
-2024.06 - 2025.03  
-- Integrated internal HR systems to implement a new mechanism for onboarding overseas employees, handling 10,000+ employee data changes  
-- Optimized slow queries and data synchronization mechanisms, improving system throughput  
-- Designed and implemented full and incremental data synchronization interfaces for MDM systems based on OAuth2  
+## Featured Project: MeowID
 
----
+**Cat Recognition API Platform | Product Design & Platform Development | March - May 2025**
+- Contributed to product definition, platform design, registration/recognition and admin workflows, promotion and China-based team coordination.
+- Built model APIs and admin tools with FastAPI, MySQL and Vue.
+- Contributed to project isolation, API keys, async jobs, rate limits, billing and BSC/TRON USDT deposit validation.
+- **Second author of the underlying model preprint.**
 
-## ⚡ Projects
-**Collateral-backed Stablecoin (DSC) System**  
-2025.03 - 2025.05  
-- Independently developed and deployed a collateral-backed stablecoin system to **Ethereum Sepolia testnet**  
-- Users can mint and burn USD-pegged stablecoins by collateralizing WETH/WBTC  
-- Designed liquidation mechanisms and health factor algorithms to ensure the system remains over-collateralized  
-- Used **Chainlink** oracles to fetch real-time price data and **Foundry** for contract testing and deployment  
+[Live platform](https://meowid.net) | [Model preprint](https://www.researchsquare.com/article/rs-10881972/v1) | [Model research code](https://github.com/RicePasteM/MeowID)
 
-[Contract Address (Sepolia)](https://sepolia.etherscan.io/address/0x1962133FdE232B1773cBd5c83fd9EF50D05796dA)
+## Skills
+- **Product:** product definition, requirement decomposition, platform/API workflow design and cross-team delivery
+- **AI agents:** Codex, Claude, VS Code AI; parallel workspaces, context alignment and output integration
+- **Backend:** Java, Spring Boot/Security/Cloud, Python/FastAPI, MySQL, Redis, Kafka, Elasticsearch
+- **Web & blockchain:** Vue, Node.js, Solidity, Foundry, Chainlink
+- **Infrastructure:** Docker, Nginx, Linux, AWS EC2/S3/RDS
 
----
-
-## 💻 Skills & Technologies
-- **Blockchain**: Solidity, Chainlink VRF & Keeper, Foundry, Ethereum  
-- **Backend**: Java, Spring Boot, Spring Cloud, MySQL, Redis, Kafka  
-- **DevOps**: Docker, Nginx, AWS (EC2, S3, RDS), CI/CD pipelines  
-- **Monitoring**: Elasticsearch, Fluentd, Kibana  
-- **Tools**: Git, Maven, Jenkins, JUnit, Postman  
-
----
-
-Feel free to check out my projects and contributions below!
+Open to backend engineering, AI/platform product and API integration opportunities.
